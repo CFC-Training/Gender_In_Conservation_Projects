@@ -1,0 +1,27 @@
+{
+  "version": "3.81.31200.0",
+  "course_id": "6eWY3zyFs0D",
+  "title": "equity walk",
+  "thumbnail": "story_content/thumbnail.jpg",
+  "scenes": [
+    {
+      "title": "Untitled Scene"
+    }
+  ],
+  "slides": [
+    {
+      "id": "5hPYaKzRIVp",
+      "title": "Scenario 1",
+      "scene_index": "1.1"
+    }
+  ],
+  "player": {
+    "name": "unified",
+    "width": 1120,
+    "height": 845
+  },
+  "stage": {
+    "width": 1100,
+    "height": 750
+  }
+}
